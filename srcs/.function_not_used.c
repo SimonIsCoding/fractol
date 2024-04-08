@@ -9,7 +9,7 @@
 /*   Updated: 2024/04/08 17:27:28 by simarcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+//this was a bit helpful : https://stackoverflow.com/questions/41796832/smooth-zoom-with-mouse-in-mandelbrot-set-c?newreg=77039ff894564d668146b5fa147dd605
 typedef struct	cartesian_plan
 {
 	double	min_x;
