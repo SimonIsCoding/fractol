@@ -1,0 +1,25 @@
+MAKEFILE:
+	- Create a correct Makefile that compiles your Libft, your ft_printf and the MACOS MinilibX ✅
+
+You need a function:
+1) input/error Management:
+	- to control the inputs	=> you have to check if the sets are well written ✅
+		- in the case of the julia sets, you can input some numbers that has to be consider as number with decimals (float)✅
+			=> you would need a function to convert the ascii to double or float ✅
+		=> the numbers puts has to be from -2.0 to 2.0 range ✅
+		=> you can also display a message to tell the user that instead of writing './fractol julia', he can add numbers ✅
+2) Window Management
+	- to exit properly without leaks with escape => without leaks ✅
+	- to exit properly when we touch the X at the top left corner => without leaks - EVENT PART ✅
+	- we should zoom in and zoom out as much as we want (infinetly) - HOOKS PART ✅ 
+	
+3) HOOKS Events
+	- you have to be able to zoom ✅ 
+	- you have to know where the cursor is located in the window => then use these coordonates to zoom in that location (BONUS)❎
+	- you have to remap the fractal when we use the arrow ✅ (BONUS)
+	- If you touch SHIFT you should manage the iterations management => to maximize the definition ✅ (Not Mandatory) 
+
+4) Fractal Management
+	- you have to create the julia's fractal✅ 
+		=> and to show the one related to the parameters✅ 
+
