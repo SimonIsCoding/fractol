@@ -6,7 +6,7 @@
 /*   By: simarcha <simarcha@student.42barcel>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/28 13:08:46 by simarcha          #+#    #+#             */
-/*   Updated: 2024/04/01 12:56:52 by simarcha         ###   ########.fr       */
+/*   Updated: 2024/04/09 12:54:04 by simarcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,7 +62,7 @@ double	ft_atod(const char *str)
 	fraction = 0;
 	while (str[i] == ' ' || (str[i] >= 9 && str[i] <= 13))
 		i++;
-	if (str[i] == '-' || str[i] == '-')
+	if (str[i] == '-' || str[i] == '+')
 	{
 		if (str[i] == '-' && sign == 1)
 			sign *= -1;
