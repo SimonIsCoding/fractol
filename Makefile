@@ -3,13 +3,14 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: simarcha <simarcha@student.42barcel>       +#+  +:+       +#+         #
+#    By: simarcha <simarcha@student.42barcelona.    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/03/24 17:15:43 by simarcha          #+#    #+#              #
-#    Updated: 2024/04/08 21:29:53 by simarcha         ###   ########.fr        #
+#    Updated: 2024/10/04 14:37:27 by simarcha         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+#This Makefile works only for MACOS. It won't work on Ubuntu.
 #SETUP
 CC					= gcc
 CFLAGS				= -Wall -Werror -Wextra

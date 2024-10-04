@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fractol.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: simarcha <simarcha@student.42barcel>       +#+  +:+       +#+        */
+/*   By: simarcha <simarcha@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/24 17:57:22 by simarcha          #+#    #+#             */
-/*   Updated: 2024/04/08 21:48:47 by simarcha         ###   ########.fr       */
+/*   Updated: 2024/10/04 14:36:28 by simarcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,6 +33,9 @@
 # define ERROR_MSG_4		"Example: ./fractol mandelbrot\n"
 # define ERROR_MSG_5		"Example: ./fractol tricorn\n"
 # define ERROR_MSG_6		"Example: ./fractol burning_ship\n"
+// Colors
+# define WHITE	0xFFFFFF
+# define BLACK	0x000000
 
 # include <stdlib.h> //malloc, free, exit
 # include "../mlx/mlx.h"
