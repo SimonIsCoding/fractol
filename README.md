@@ -11,10 +11,10 @@ A beautiful fractal visualization program built with MiniLibX graphics library. 
 
 | **Mandelbrot Set** | **Julia Set** |
 |:---:|:---:|
-| ![Mandelbrot Set](Mandelbrot.gif) | ![Julia Set](Julia_set.gif) |
+| ![Mandelbrot Set](.gif_and_others/Mandelbrot.gif) | ![Julia Set](.gif_and_others/Julia_set.gif) |
 | The classic fractal showing the boundary between bounded and unbounded values in the complex plane. | A family of fractals with customizable parameters that create stunning geometric patterns. |
 | **Tricorn** | **Burning Ship** |
-| ![Tricorn](TricornSmallZoom.gif) | ![Burning Ship](Burning_Ship_Fractal.gif) |
+| ![Tricorn](.gif_and_others/TricornSmallZoom.gif) | ![Burning Ship](.gif_and_others/Burning_Ship_Fractal.gif) |
 | A variation of the Mandelbrot set with different mathematical properties, creating unique symmetrical patterns. | A unique fractal with distinctive geometric patterns and sharp, angular structures. |
 
 ### Interactive Controls
