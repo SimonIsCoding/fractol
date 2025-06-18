@@ -166,10 +166,5 @@ make re     # Rebuild the project from scratch
 
 This project is part of the 42 curriculum and follows the school's coding standards and guidelines.
 
-## 👨‍💻 Author
-
-Created by [Your Name] as part of the 42 curriculum.
-
----
-
-**Note**: This version is specifically built for macOS and uses the MiniLibX graphics library. The program provides an interactive way to explore the fascinating world of mathematical fractals with real-time zooming and panning capabilities.
+> [!NOTE]
+> **This version is specifically built for macOS and uses the MiniLibX graphics library. The program provides an interactive way to explore the fascinating world of mathematical fractals with real-time zooming and panning capabilities.
