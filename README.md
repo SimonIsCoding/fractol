@@ -9,13 +9,48 @@ A beautiful fractal visualization program built with MiniLibX graphics library. 
 
 ### Supported Fractals
 
-| **Mandelbrot Set** | **Julia Set** |
-|:---:|:---:|
-| ![Mandelbrot Set](.gif_and_others/Mandelbrot.gif) | ![Julia Set](.gif_and_others/Julia_set.gif) |
-| The classic fractal showing the boundary between bounded and unbounded values in the complex plane. | A family of fractals with customizable parameters that create stunning geometric patterns. |
-| **Tricorn** | **Burning Ship** |
-| ![Tricorn](.gif_and_others/TricornSmallZoom.gif) | ![Burning Ship](.gif_and_others/Burning_Ship_Fractal.gif) |
-| A variation of the Mandelbrot set with different mathematical properties, creating unique symmetrical patterns. | A unique fractal with distinctive geometric patterns and sharp, angular structures. |
+<table>
+<tr>
+<th style="background-color: #f0f0f0; text-align: center;">**Mandelbrot Set**</th>
+<th style="background-color: white; text-align: center;">**Julia Set**</th>
+</tr>
+<tr>
+<td style="background-color: #f0f0f0; text-align: center;">
+<img src=".gif_and_others/Mandelbrot.gif" alt="Mandelbrot Set">
+</td>
+<td style="background-color: white; text-align: center;">
+<img src=".gif_and_others/Julia_set.gif" alt="Julia Set">
+</td>
+</tr>
+<tr>
+<td style="background-color: #f0f0f0; text-align: center;">
+The classic fractal showing the boundary between bounded and unbounded values in the complex plane.
+</td>
+<td style="background-color: white; text-align: center;">
+A family of fractals with customizable parameters that create stunning geometric patterns.
+</td>
+</tr>
+<tr>
+<th style="background-color: white; text-align: center;">**Tricorn**</th>
+<th style="background-color: #f0f0f0; text-align: center;">**Burning Ship**</th>
+</tr>
+<tr>
+<td style="background-color: white; text-align: center;">
+<img src=".gif_and_others/TricornSmallZoom.gif" alt="Tricorn">
+</td>
+<td style="background-color: #f0f0f0; text-align: center;">
+<img src=".gif_and_others/Burning_Ship_Fractal.gif" alt="Burning Ship">
+</td>
+</tr>
+<tr>
+<td style="background-color: white; text-align: center;">
+A variation of the Mandelbrot set with different mathematical properties, creating unique symmetrical patterns.
+</td>
+<td style="background-color: #f0f0f0; text-align: center;">
+A unique fractal with distinctive geometric patterns and sharp, angular structures.
+</td>
+</tr>
+</table>
 
 ### Interactive Controls
 - **Mouse Wheel**: Zoom in/out at cursor position
