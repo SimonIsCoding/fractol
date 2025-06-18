@@ -162,9 +162,5 @@ make fclean # Remove object files and executable
 make re     # Rebuild the project from scratch
 ```
 
-## 📄 License
-
-This project is part of the 42 curriculum and follows the school's coding standards and guidelines.
-
 > [!NOTE]
-> **This version is specifically built for macOS and uses the MiniLibX graphics library. The program provides an interactive way to explore the fascinating world of mathematical fractals with real-time zooming and panning capabilities.
+> **This version is specifically built for macOS** and uses the MiniLibX graphics library. The program provides an interactive way to explore the fascinating world of mathematical fractals with real-time zooming and panning capabilities.
