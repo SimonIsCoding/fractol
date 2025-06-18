@@ -2,7 +2,8 @@
 
 A beautiful fractal visualization program built with MiniLibX graphics library. This project allows you to explore and interact with various mathematical fractals in real-time.
 
-> [!NOTE]: This version is specifically built for macOS and uses the MiniLibX graphics library. The program provides an interactive way to explore the fascinating world of mathematical fractals with real-time zooming and panning capabilities.
+> [!NOTE]
+> This version is specifically built for macOS and uses the MiniLibX graphics library. The program provides an interactive way to explore the fascinating world of mathematical fractals with real-time zooming and panning capabilities.
 
 ## 🎨 Features
 
