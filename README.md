@@ -9,21 +9,13 @@ A beautiful fractal visualization program built with MiniLibX graphics library. 
 
 ### Supported Fractals
 
-#### Mandelbrot Set
-The classic fractal showing the boundary between bounded and unbounded values in the complex plane.
-
-![Mandelbrot Set](Mandelbrot.gif)
-
-#### Julia Set
-A family of fractals with customizable parameters that create stunning geometric patterns.
-
-![Julia Set](Julia_set.gif)
-
-#### Tricorn
-A variation of the Mandelbrot set with different mathematical properties, creating unique symmetrical patterns.
-
-#### Burning Ship
-A unique fractal with distinctive geometric patterns and sharp, angular structures.
+| **Mandelbrot Set** | **Julia Set** |
+|:---:|:---:|
+| ![Mandelbrot Set](Mandelbrot.gif) | ![Julia Set](Julia_set.gif) |
+| The classic fractal showing the boundary between bounded and unbounded values in the complex plane. | A family of fractals with customizable parameters that create stunning geometric patterns. |
+| **Tricorn** | **Burning Ship** |
+| ![Tricorn](Mandelbrot.gif) | ![Burning Ship](Julia_set.gif) |
+| A variation of the Mandelbrot set with different mathematical properties, creating unique symmetrical patterns. | A unique fractal with distinctive geometric patterns and sharp, angular structures. |
 
 ### Interactive Controls
 - **Mouse Wheel**: Zoom in/out at cursor position
